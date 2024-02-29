@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafshan Ahammed Tahsin</h1>
 <h3 align="center">A current live in from Bangladesh</h3>
 
-![image](https://github.com/Rafshan015/Rafshan015/assets/148086128/9d9309e7-c415-44a0-83cb-e22071fea791)
+![gif](https://github.com/Rafshan015/Rafshan015/assets/148086128/9d9309e7-c415-44a0-83cb-e22071fea791)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahshan015&label=Profile%20views&color=0e75b6&style=flat" alt="Rahshan015" /> </p>
 
